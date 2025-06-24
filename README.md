@@ -34,7 +34,7 @@ Analyze a suspicious email and identify phishing indicators to develop threat de
 
 ## 📎 Files Included
 - `phishing-email.txt`: Raw text of the scam email
-- `screenshots/`: Image showing the original email
+- ![image alt](https://github.com/Yaami2003/phishing_email_analysis2/blob/f2197b6a8f2003185ca72b6f912285b22308e7b6/email%20phishing2.png)
   
 ---
 
